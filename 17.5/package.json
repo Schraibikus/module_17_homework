@@ -1,4 +1,8 @@
 {
+  "name": "modul_17.5_homework",
+  "version": "1.0.0",
+  "description": "homework for module 17, task_17.5",
+  "main": "index.js",
   "scripts": {
     "test": "jest"
   },

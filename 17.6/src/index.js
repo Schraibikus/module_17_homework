@@ -1,5 +1,3 @@
-// const numMonth = +prompt("Введите номер месяца");
-
 export function getMonth(numMonth) {
   let result;
   if (numMonth <= 0 || numMonth > 12) {
